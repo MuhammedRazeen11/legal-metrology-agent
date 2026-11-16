@@ -1,0 +1,263 @@
+listing_id,title,listing_text,expected_status
+ShopKart-1001,Dishwash Liquid Lemon,"Product: Dishwash Liquid Lemon
+Common Name: Dishwash Liquid
+Net Quantity: 750 ml
+MRP: Rs. 199 inclusive of all taxes
+Selling Price: Rs. 189
+Packed by: CleanWave Household Products, Peenya, Bengaluru, Karnataka - 560058
+Mfg Date: 07/2026
+Expiry: Mar 2028
+Customer Care: 1800-123-4567
+Country of Origin: India",COMPLIANT
+ShopKart-1002,Cold Pressed Mustard Oil,"Product: Cold Pressed Mustard Oil
+Generic Name: Mustard Oil
+Net Content: 1 L
+MRP: Rs. 210 inclusive of all taxes
+Price: Rs. 195
+Marketed by: Kisan Oils, Village Rampur, Hisar, Haryana - 125001
+Packed on: 09/2026
+Consumer Care: +91 98765 43210
+Country of Origin: India",COMPLIANT
+ShopKart-1003,Dishwash Liquid Lemon,"Product: Dishwash Liquid Lemon
+Common Name: Dishwash Liquid
+Net Content: 750 ml
+MRP: Rs. 199 inclusive of all taxes
+Price: Rs. 184
+Marketed by: CleanWave Household Products, Peenya, Bengaluru, Karnataka - 560058
+Packed on: 09/2026
+Expiry: 12/2027
+Consumer Care: 1800-123-4567",PARTIALLY COMPLIANT
+ShopKart-1004,Dishwash Liquid Lemon,"Product: Dishwash Liquid Lemon
+Generic Name: Dishwash Liquid
+Net Wt: 750 ml
+MRP: ₹199 (Incl. of all taxes)
+Price: ₹184
+Packed by: CleanWave Household Products, Peenya, Bengaluru, Karnataka - 560058
+Date of Manufacture: 06/2026
+Expiry: Mar 2028
+Customer Care: 1800-123-4567
+Country of Origin: India",COMPLIANT
+ShopKart-1005,Aloe Vera Gel,"Product: Aloe Vera Gel
+Generic Name: Aloe Vera Gel
+Net Quantity: 200 mls
+MRP: Rs. 120 inclusive of all taxes
+Selling Price: Rs. 120
+Packed by: GreenSkin Naturals, Sector 18, Noida, Uttar Pradesh
+Mfg Date: October 2025
+Expiry: 06/2027
+Customer Care: +91 98765 43210
+Country of Origin: India",NON-COMPLIANT
+ShopKart-1006,Herbal Toothpaste,"Product: Herbal Toothpaste
+Generic Name: Toothpaste
+Net Quantity: 150 g
+MRP: Rs. 95 inclusive of all taxes
+Selling Price: Rs. 90
+Packed by: Dantaa Care Ltd, 45 MG Road, Pune, Maharashtra - 411001
+Date of Manufacture: 09/2026
+Expiry: 02/2026
+Customer Care: care@herbal.in
+Country of Origin: India",PARTIALLY COMPLIANT
+ShopKart-1007,Herbal Toothpaste,"Product: Herbal Toothpaste
+Generic Name: Toothpaste
+Net Content: 150 g
+MRP: Rs. 95 (Incl. of all taxes)
+Price: Rs. 85
+Marketed by: Dantaa Care Ltd, 45 MG Road, Pune, Maharashtra - 411001
+Packed on: 09/2026
+Expiry: Mar 2028
+Customer Care: 1800-123-4567
+Country of Origin: India",COMPLIANT
+BazaarOne-1008,Instant Noodles Masala,"Product: Instant Noodles Masala
+Common Name: Instant Noodles
+Net Wt: 280 gms
+MRP: Rs. 60 (inclusive of all taxes)
+Selling Price: Rs. 45
+Packed by: QuickBite Foods, Phase 2, Baddi, Himachal Pradesh - 173205
+Date of Manufacture: October 2025
+Expiry: 06/2027
+Consumer Care: 1800-123-4567",PARTIALLY COMPLIANT
+ShopKart-1009,Roasted Almonds,"Product: Roasted Almonds
+Generic Name: Almonds
+MRP: Rs. 450 (Incl. of all taxes)
+Selling Price: Rs. 440
+Packed by: NutriHarvest Imports, Andheri East, Mumbai, Maharashtra - 400069
+Mfg Date: 06/2026
+Expiry: Mar 2028
+Consumer Care: support@roasted.com / 9876543210
+Country of Origin: USA",NON-COMPLIANT
+ShopKart-1010,Masala Chai Blend,"Product: Masala Chai Blend
+Generic Name: Tea
+Net Wt: 250 g
+MRP: Rs. 140 (Incl. of all taxes)
+Selling Price: Rs. 140
+Manufactured by: Assam Leaf Traders, GS Road, Guwahati, Assam - 781005
+Packed on: 03/2026
+Expiry: 12/2027
+Customer Care: support@masala.com / 9876543210
+Country of Origin: India",COMPLIANT
+BazaarOne-1011,Masala Chai Blend,"Product: Masala Chai Blend
+Generic Name: Tea
+Net Content: 250 gms
+MRP: Rs. 140 (inclusive of all taxes)
+Selling Price: Rs. 140
+Manufactured by: Assam Leaf Traders, GS Road, Guwahati, Assam - 781005
+Packed on: 07/2026
+Expiry: 12/2027
+Consumer Care: care@masala.in
+Country of Origin: India",PARTIALLY COMPLIANT
+ShopKart-1012,Herbal Toothpaste,"Product: Herbal Toothpaste
+Common Name: Toothpaste
+Net Quantity: 150 g
+MRP: Rs. 95 (Incl. of all taxes)
+Selling Price: Rs. 90
+Packed by: Dantaa Care Ltd, 45 MG Road, Pune, Maharashtra - 411001
+Packed on: 06/2026
+Expiry: Mar 2028
+Consumer Care: support@herbal.com / 9876543210
+Country of Origin: India",COMPLIANT
+BazaarOne-1013,Instant Noodles Masala,"Product: Instant Noodles Masala
+Common Name: Instant Noodles
+Net Quantity: 280 g
+MRP: Rs. 60 (Incl. of all taxes)
+Price: Rs. 85
+Marketed by: QuickBite Foods, Phase 2, Baddi, Himachal Pradesh - 173205
+Packed on: Jan 2026
+Expiry: 06/2027
+Consumer Care: care@instant.in
+Country of Origin: India",NON-COMPLIANT
+ShopKart-1014,Basmati Rice Premium,"Product: Basmati Rice Premium
+Net Quantity: 1 kg
+MRP: ₹180 (Incl. of all taxes)
+Selling Price: ₹170
+Packed by: Golden Grain Foods Pvt Ltd, Plot 12, Industrial Area, Ludhiana, Punjab - 141003
+Packed on: 09/2026
+Expiry: Mar 2028
+Customer Care: support@basmati.com / 9876543210
+Country of Origin: India",PARTIALLY COMPLIANT
+BazaarOne-1015,Whole Wheat Atta,"Product: Whole Wheat Atta
+Generic Name: Wheat Flour
+Net Content: 5 kg
+Selling Price: ₹255
+Packed by: Shakti Mills Pvt Ltd, Ring Road, Indore, Madhya Pradesh - 452001
+Packed on: 03/2030
+Country of Origin: India",NON-COMPLIANT
+QuickMart-1016,Herbal Toothpaste,"Product: Herbal Toothpaste
+Generic Name: Toothpaste
+Net Wt: 150 g
+MRP: Rs. 95 inclusive of all taxes
+Price: Rs. 95
+Marketed by: Dantaa Care Ltd, 45 MG Road, Pune, Maharashtra - 411001
+Date of Manufacture: 03/2026
+Expiry: 06/2027
+Consumer Care: care@herbal.in
+Country of Origin: India",COMPLIANT
+BazaarOne-1017,Instant Noodles Masala,"Product: Instant Noodles Masala
+Common Name: Instant Noodles
+Net Content: 280 g
+MRP: ₹60 inclusive of all taxes
+Selling Price: ₹55
+Manufactured by: QuickBite Foods, Phase 2, Baddi, Himachal Pradesh - 173205
+Packed on: 08/2026
+Expiry: 12/2027
+Consumer Care: care@instant.in
+Country of Origin: India",COMPLIANT
+ShopKart-1018,Cold Pressed Mustard Oil,"Product: Cold Pressed Mustard Oil
+Generic Name: Mustard Oil
+Net Content: 1 L
+MRP: ₹210 inclusive of all taxes
+Selling Price: ₹195
+Packed on: October 2025
+Expiry: Mar 2028
+Consumer Care: care@cold.in
+Country of Origin: India",NON-COMPLIANT
+QuickMart-1019,Herbal Toothpaste,"Product: Herbal Toothpaste
+Generic Name: Toothpaste
+Net Content: 150 g
+MRP: Rs. 95 (inclusive of all taxes)
+Price: Rs. 90
+Marketed by: Dantaa Care Ltd, 45 MG Road, Pune, Maharashtra - 411001
+Mfg Date: 07/2026
+Expiry: 06/2027
+Customer Care: care@herbal.in
+Country of Origin: India",COMPLIANT
+ShopKart-1020,Dishwash Liquid Lemon,"Product: Dishwash Liquid Lemon
+Generic Name: Dishwash Liquid
+Net Wt: 750 ml
+MRP: Rs. 199 (inclusive of all taxes)
+Selling Price: Rs. 189
+Manufactured by: CleanWave Household Products, Peenya, Bengaluru, Karnataka - 560058
+Mfg Date: 03/2030
+Expiry: Mar 2028
+Customer Care: +91 98765 43210
+Country of Origin: India",PARTIALLY COMPLIANT
+ShopKart-1021,Masala Chai Blend,"Product: Masala Chai Blend
+Net Wt: 250 g
+MRP: Rs. 140 (inclusive of all taxes)
+Price: Rs. 135
+Marketed by: Assam Leaf Traders, GS Road, Guwahati, Assam - 781005
+Mfg Date: Jan 2026",PARTIALLY COMPLIANT
+BazaarOne-1022,Peanut Butter Crunchy,"Product: Peanut Butter Crunchy
+Generic Name: Peanut Butter
+Net Wt: 340 g
+MRP: Rs. 175 (Incl. of all taxes)
+Price: Rs. 175
+Marketed by: SpreadJoy Foods, Anna Nagar, Chennai, Tamil Nadu - 600040
+Mfg Date: 06/2026
+Expiry: 06/2027
+Country of Origin: India",PARTIALLY COMPLIANT
+BazaarOne-1023,Whole Wheat Atta,"Product: Whole Wheat Atta
+Common Name: Wheat Flour
+Net Wt: 5 kg
+MRP: Rs. 260 (Incl. of all taxes)
+Selling Price: Rs. 255
+Packed by: Shakti Mills Pvt Ltd, Ring Road, Indore, Madhya Pradesh - 452001
+Mfg Date: 09/2026
+Expiry: Mar 2028
+Customer Care: 1800-123-4567
+Country of Origin: India",COMPLIANT
+QuickMart-1024,Peanut Butter Crunchy,"Product: Peanut Butter Crunchy
+Generic Name: Peanut Butter
+Net Content: 340 g
+MRP: Rs. 175
+Selling Price: Rs. 175
+Packed by: SpreadJoy Foods, Anna Nagar, Chennai, Tamil Nadu - 600040
+Mfg Date: October 2025
+Expiry: 06/2027
+Country of Origin: India",PARTIALLY COMPLIANT
+ShopKart-1025,Instant Noodles Masala,"Product: Instant Noodles Masala
+Generic Name: Instant Noodles
+Net Wt: 280 g
+MRP: Rs. 60
+Price: Rs. 70
+Manufactured by: QuickBite Foods, Phase 2, Baddi, Himachal Pradesh - 173205
+Packed on: October 2025
+Expiry: 12/2027
+Consumer Care: care@instant.in
+Country of Origin: India",NON-COMPLIANT
+ShopKart-1026,Instant Noodles Masala,"Product: Instant Noodles Masala
+Generic Name: Instant Noodles
+Net Content: 280 g
+MRP: ₹60 (inclusive of all taxes)
+Price: ₹50
+Packed by: QuickBite Foods, Phase 2, Baddi, Himachal Pradesh
+Date of Manufacture: 07/2026
+Customer Care: 1800-123-4567
+Country of Origin: India",NON-COMPLIANT
+ShopKart-1027,Dishwash Liquid Lemon,"Product: Dishwash Liquid Lemon
+Common Name: Dishwash Liquid
+Net Content: 750 ml
+MRP: ₹199
+Selling Price: ₹199
+Marketed by: CleanWave Household Products, Peenya, Bengaluru, Karnataka - 560058
+Packed on: 09/2026
+Customer Care: +91 98765 43210
+Country of Origin: India",PARTIALLY COMPLIANT
+ShopKart-1028,Peanut Butter Crunchy,"Product: Peanut Butter Crunchy
+Generic Name: Peanut Butter
+Net Wt: 340 g
+Price: Rs. 165
+Marketed by: SpreadJoy Foods, Anna Nagar, Chennai, Tamil Nadu - 600040
+Mfg Date: 07/2026
+Expiry: Mar 2028
+Customer Care: 1800-123-4567
+Country of Origin: India",NON-COMPLIANT
